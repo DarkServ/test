@@ -4,4 +4,4 @@ Solution is simple -
 
     Read the code, if you don't understand how it works, don't use it.
 
->_>
+O_O
